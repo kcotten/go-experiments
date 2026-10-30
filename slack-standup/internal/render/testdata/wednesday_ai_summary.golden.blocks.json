@@ -1,0 +1,33 @@
+[
+  {
+    "type": "header",
+    "text": {
+      "type": "plain_text",
+      "text": "Daily Standup - Wednesday, March 12, 2025"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Yesterday's Progress*\nShipped the importer fix and wrote the design doc.\nNext up: implementation."
+    }
+  },
+  {
+    "type": "divider"
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Today's Plan*\n• Start implementation"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Blockers*\n• None"
+    }
+  }
+]

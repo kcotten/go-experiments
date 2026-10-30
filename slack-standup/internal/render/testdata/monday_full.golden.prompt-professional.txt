@@ -1,0 +1,26 @@
+Recent Work Activity:
+
+GitHub Commits:
+- Commit message 1 (acme/api)
+- Commit message 2 (acme/api)
+- Commit message 3 (acme/api)
+- Commit message 4 (acme/api)
+- Commit message 5 (acme/api)
+Pull Requests Merged:
+- Pull request 10 (acme/api)
+- Pull request 11 (acme/api)
+Pull Requests Opened:
+- Pull request 12 (acme/api)
+Code Reviews: 7 PRs reviewed
+Jira Tickets Completed:
+- PROJ-1: Summary of PROJ-1
+Jira Tickets Updated:
+- PROJ-2: Summary of PROJ-2
+- PROJ-3: Summary of PROJ-3
+- PROJ-4: Summary of PROJ-4
+Other Activities:
+- Completed note 1
+- Completed note 2
+- Completed note 3
+
+Please create a concise, professional daily standup summary (2-3 sentences) focusing on key accomplishments and their business impact.

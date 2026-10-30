@@ -1,0 +1,248 @@
+{
+  "now": "2025-03-10T09:30:00",
+  "github": {
+    "commits": [
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 1",
+        "sha": "abc0001",
+        "url": "https://github.com/acme/api/commit/abc1"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 2",
+        "sha": "abc0002",
+        "url": "https://github.com/acme/api/commit/abc2"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 3",
+        "sha": "abc0003",
+        "url": "https://github.com/acme/api/commit/abc3"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 4",
+        "sha": "abc0004",
+        "url": "https://github.com/acme/api/commit/abc4"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 5",
+        "sha": "abc0005",
+        "url": "https://github.com/acme/api/commit/abc5"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 6",
+        "sha": "abc0006",
+        "url": "https://github.com/acme/api/commit/abc6"
+      },
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 7",
+        "sha": "abc0007",
+        "url": "https://github.com/acme/api/commit/abc7"
+      }
+    ],
+    "prs_merged": [
+      {
+        "title": "Pull request 10",
+        "repo": "acme/api",
+        "url": "https://github.com/acme/api/pull/10",
+        "number": 10
+      },
+      {
+        "title": "Pull request 11",
+        "repo": "acme/api",
+        "url": "https://github.com/acme/api/pull/11",
+        "number": 11
+      }
+    ],
+    "prs_opened": [
+      {
+        "title": "Pull request 12",
+        "repo": "acme/api",
+        "url": "https://github.com/acme/api/pull/12",
+        "number": 12
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Pull request 20",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/20",
+        "number": 20
+      },
+      {
+        "title": "Pull request 21",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/21",
+        "number": 21
+      },
+      {
+        "title": "Pull request 22",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/22",
+        "number": 22
+      },
+      {
+        "title": "Pull request 23",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/23",
+        "number": 23
+      },
+      {
+        "title": "Pull request 24",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/24",
+        "number": 24
+      },
+      {
+        "title": "Pull request 25",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/25",
+        "number": 25
+      },
+      {
+        "title": "Pull request 26",
+        "repo": "acme/web",
+        "url": "https://github.com/acme/web/pull/26",
+        "number": 26
+      }
+    ]
+  },
+  "jira": {
+    "completed": [
+      {
+        "key": "PROJ-1",
+        "summary": "Summary of PROJ-1",
+        "status": "Done",
+        "url": "https://acme.atlassian.net/browse/PROJ-1"
+      }
+    ],
+    "updated": [
+      {
+        "key": "PROJ-2",
+        "summary": "Summary of PROJ-2",
+        "status": "To Do",
+        "url": "https://acme.atlassian.net/browse/PROJ-2"
+      },
+      {
+        "key": "PROJ-3",
+        "summary": "Summary of PROJ-3",
+        "status": "To Do",
+        "url": "https://acme.atlassian.net/browse/PROJ-3"
+      },
+      {
+        "key": "PROJ-4",
+        "summary": "Summary of PROJ-4",
+        "status": "To Do",
+        "url": "https://acme.atlassian.net/browse/PROJ-4"
+      },
+      {
+        "key": "PROJ-5",
+        "summary": "Summary of PROJ-5",
+        "status": "To Do",
+        "url": "https://acme.atlassian.net/browse/PROJ-5"
+      },
+      {
+        "key": "PROJ-6",
+        "summary": "Summary of PROJ-6",
+        "status": "To Do",
+        "url": "https://acme.atlassian.net/browse/PROJ-6"
+      }
+    ],
+    "in_progress": [
+      {
+        "key": "TEAM-1",
+        "summary": "Summary of TEAM-1",
+        "status": "In Progress",
+        "url": "https://acme.atlassian.net/browse/TEAM-1"
+      },
+      {
+        "key": "TEAM-2",
+        "summary": "Summary of TEAM-2",
+        "status": "In Progress",
+        "url": "https://acme.atlassian.net/browse/TEAM-2"
+      },
+      {
+        "key": "TEAM-3",
+        "summary": "Summary of TEAM-3",
+        "status": "In Progress",
+        "url": "https://acme.atlassian.net/browse/TEAM-3"
+      },
+      {
+        "key": "TEAM-4",
+        "summary": "Summary of TEAM-4",
+        "status": "In Progress",
+        "url": "https://acme.atlassian.net/browse/TEAM-4"
+      },
+      {
+        "key": "TEAM-5",
+        "summary": "Summary of TEAM-5",
+        "status": "In Progress",
+        "url": "https://acme.atlassian.net/browse/TEAM-5"
+      }
+    ]
+  },
+  "confluence": {
+    "created": [
+      {
+        "title": "Page 1",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/1"
+      }
+    ],
+    "updated": [
+      {
+        "title": "Page 2",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/2"
+      },
+      {
+        "title": "Page 3",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/3"
+      },
+      {
+        "title": "Page 4",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/4"
+      },
+      {
+        "title": "Page 5",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/5"
+      },
+      {
+        "title": "Page 6",
+        "space": "Engineering",
+        "url": "https://acme.atlassian.net/wiki/spaces/ENG/pages/6"
+      }
+    ]
+  },
+  "notes": {
+    "completed": [
+      "Completed note 1",
+      "Completed note 2",
+      "Completed note 3",
+      "Completed note 4",
+      "Completed note 5",
+      "Completed note 6",
+      "Completed note 7"
+    ],
+    "plan": [
+      "Review the release PR",
+      "Pair on the importer"
+    ]
+  },
+  "ai_summary": null
+}

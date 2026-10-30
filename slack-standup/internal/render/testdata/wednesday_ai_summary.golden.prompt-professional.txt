@@ -1,0 +1,8 @@
+Recent Work Activity:
+
+GitHub Commits:
+- Commit message 1 (acme/api)
+Other Activities:
+- Wrote the design doc
+
+Please create a concise, professional daily standup summary (2-3 sentences) focusing on key accomplishments and their business impact.

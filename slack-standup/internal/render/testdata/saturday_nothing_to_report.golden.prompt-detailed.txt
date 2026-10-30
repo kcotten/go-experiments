@@ -1,0 +1,5 @@
+Work Activity Summary:
+
+
+
+Please create a detailed daily standup summary that categorizes the work and provides context about impact and progress. Include technical details where relevant.

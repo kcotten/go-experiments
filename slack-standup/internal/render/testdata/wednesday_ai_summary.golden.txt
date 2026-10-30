@@ -1,0 +1,12 @@
+## Daily Standup - Wednesday, March 12, 2025
+
+### Yesterday's Progress
+Shipped the importer fix and wrote the design doc.
+Next up: implementation.
+
+
+### Today's Plan
+• Start implementation
+
+### Blockers
+• None

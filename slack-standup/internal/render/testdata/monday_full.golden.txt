@@ -1,0 +1,61 @@
+## Daily Standup - Friday, March 07 - Monday, March 10, 2025
+
+### Since Friday
+
+**GitHub Commits:**
+• [acme/api] Commit message 1 (abc0001)
+• [acme/api] Commit message 2 (abc0002)
+• [acme/api] Commit message 3 (abc0003)
+• [acme/api] Commit message 4 (abc0004)
+• [acme/api] Commit message 5 (abc0005)
+
+**PRs Merged:**
+• <https://github.com/acme/api/pull/10|#10: Pull request 10>
+• <https://github.com/acme/api/pull/11|#11: Pull request 11>
+
+**PRs Opened:**
+• <https://github.com/acme/api/pull/12|#12: Pull request 12>
+
+**Code Reviews:**
+• <https://github.com/acme/web/pull/20|#20: Pull request 20>
+• <https://github.com/acme/web/pull/21|#21: Pull request 21>
+• <https://github.com/acme/web/pull/22|#22: Pull request 22>
+• <https://github.com/acme/web/pull/23|#23: Pull request 23>
+• <https://github.com/acme/web/pull/24|#24: Pull request 24>
+
+**Jira - Completed:**
+• <https://acme.atlassian.net/browse/PROJ-1|PROJ-1> Summary of PROJ-1
+
+**Jira - Updated:**
+• <https://acme.atlassian.net/browse/PROJ-2|PROJ-2> Summary of PROJ-2 (To Do)
+• <https://acme.atlassian.net/browse/PROJ-3|PROJ-3> Summary of PROJ-3 (To Do)
+• <https://acme.atlassian.net/browse/PROJ-4|PROJ-4> Summary of PROJ-4 (To Do)
+
+**Jira - In Progress:**
+• <https://acme.atlassian.net/browse/TEAM-1|TEAM-1> Summary of TEAM-1
+• <https://acme.atlassian.net/browse/TEAM-2|TEAM-2> Summary of TEAM-2
+• <https://acme.atlassian.net/browse/TEAM-3|TEAM-3> Summary of TEAM-3
+
+**Confluence - Created:**
+• <https://acme.atlassian.net/wiki/spaces/ENG/pages/1|Page 1> (Engineering)
+
+**Confluence - Updated:**
+• <https://acme.atlassian.net/wiki/spaces/ENG/pages/2|Page 2> (Engineering)
+• <https://acme.atlassian.net/wiki/spaces/ENG/pages/3|Page 3> (Engineering)
+• <https://acme.atlassian.net/wiki/spaces/ENG/pages/4|Page 4> (Engineering)
+
+**Recent Activity Summary:**
+• Completed note 1
+• Completed note 2
+• Completed note 3
+• Completed note 4
+• Completed note 5
+• Completed note 6
+• Completed note 7
+
+### Today's Plan
+• Review the release PR
+• Pair on the importer
+
+### Blockers
+• None

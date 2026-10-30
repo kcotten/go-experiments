@@ -1,0 +1,35 @@
+{
+  "now": "2025-03-12T09:00:00",
+  "github": {
+    "commits": [
+      {
+        "repo": "acme/api",
+        "branch": "main",
+        "message": "Commit message 1",
+        "sha": "abc0001",
+        "url": "https://github.com/acme/api/commit/abc1"
+      }
+    ],
+    "prs_merged": [],
+    "prs_opened": [],
+    "reviews": []
+  },
+  "jira": {
+    "completed": [],
+    "updated": [],
+    "in_progress": []
+  },
+  "confluence": {
+    "created": [],
+    "updated": []
+  },
+  "notes": {
+    "completed": [
+      "Wrote the design doc"
+    ],
+    "plan": [
+      "Start implementation"
+    ]
+  },
+  "ai_summary": "Shipped the importer fix and wrote the design doc.\nNext up: implementation."
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "type": "header",
+    "text": {
+      "type": "plain_text",
+      "text": "Daily Standup - Friday, March 07 - Monday, March 10, 2025"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Since Friday*\n*GitHub Commits:*\n• *acme/api*: Commit message 1 (`abc0001`)\n• *acme/api*: Commit message 2 (`abc0002`)\n• *acme/api*: Commit message 3 (`abc0003`)\n• *acme/api*: Commit message 4 (`abc0004`)\n• *acme/api*: Commit message 5 (`abc0005`)\n\n*PRs Merged:*\n• <https://github.com/acme/api/pull/10|#10: Pull request 10>\n• <https://github.com/acme/api/pull/11|#11: Pull request 11>\n\n*PRs Opened:*\n• <https://github.com/acme/api/pull/12|#12: Pull request 12>\n\n*Code Reviews:*\n• <https://github.com/acme/web/pull/20|#20: Pull request 20>\n• <https://github.com/acme/web/pull/21|#21: Pull request 21>\n• <https://github.com/acme/web/pull/22|#22: Pull request 22>\n• <https://github.com/acme/web/pull/23|#23: Pull request 23>\n• <https://github.com/acme/web/pull/24|#24: Pull request 24>\n\n*Jira - Completed:*\n• <https://acme.atlassian.net/browse/PROJ-1|PROJ-1> Summary of PROJ-1\n\n*Jira - Updated:*\n• <https://acme.atlassian.net/browse/PROJ-2|PROJ-2> Summary of PROJ-2 (To Do)\n• <https://acme.atlassian.net/browse/PROJ-3|PROJ-3> Summary of PROJ-3 (To Do)\n• <https://acme.atlassian.net/browse/PROJ-4|PROJ-4> Summary of PROJ-4 (To Do)\n\n*Jira - In Progress:*\n• <https://acme.atlassian.net/browse/TEAM-1|TEAM-1> Summary of TEAM-1\n• <https://acme.atlassian.net/browse/TEAM-2|TEAM-2> Summary of TEAM-2\n• <https://acme.atlassian.net/browse/TEAM-3|TEAM-3> Summary of TEAM-3\n\n*Confluence - Created:*\n• <https://acme.atlassian.net/wiki/spaces/ENG/pages/1|Page 1> (Engineering)\n\n*Confluence - Updated:*\n• <https://acme.atlassian.net/wiki/spaces/ENG/pages/2|Page 2> (Engineering)\n• <https://acme.atlassian.net/wiki/spaces/ENG/pages/3|Page 3> (Engineering)\n• <https://acme.atlassian.net/wiki/spaces/ENG/pages/4|Page 4> (Engineering)\n\n*Recent Activity Summary:*\n• Completed note 1\n• Completed note 2\n• Completed note 3\n• Completed note 4\n• Completed note 5"
+    }
+  },
+  {
+    "type": "divider"
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Today's Plan*\n• Review the release PR\n• Pair on the importer"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Blockers*\n• None"
+    }
+  }
+]

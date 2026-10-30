@@ -1,0 +1,8 @@
+Here's what I got done recently:
+
+Jira Tickets Completed:
+- PROJ-9: Summary of PROJ-9
+Other Activities:
+- Triaged support queue
+
+Please write a brief, casual daily standup summary (2-3 sentences) highlighting the key accomplishments. Keep it friendly and conversational.

@@ -1,0 +1,33 @@
+[
+  {
+    "type": "header",
+    "text": {
+      "type": "plain_text",
+      "text": "Daily Standup - Tuesday, March 11, 2025"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Yesterday's Progress*\n*Jira - Completed:*\n• <https://acme.atlassian.net/browse/PROJ-9|PROJ-9> Summary of PROJ-9\n\n*Recent Activity Summary:*\n• Triaged support queue"
+    }
+  },
+  {
+    "type": "divider"
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Today's Plan*\n• _Add your planned work here_"
+    }
+  },
+  {
+    "type": "section",
+    "text": {
+      "type": "mrkdwn",
+      "text": "*Blockers*\n• None"
+    }
+  }
+]

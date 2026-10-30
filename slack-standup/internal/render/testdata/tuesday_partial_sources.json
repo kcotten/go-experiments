@@ -1,0 +1,24 @@
+{
+  "now": "2025-03-11T09:00:00",
+  "github": null,
+  "jira": {
+    "completed": [
+      {
+        "key": "PROJ-9",
+        "summary": "Summary of PROJ-9",
+        "status": "Done",
+        "url": "https://acme.atlassian.net/browse/PROJ-9"
+      }
+    ],
+    "updated": [],
+    "in_progress": []
+  },
+  "confluence": null,
+  "notes": {
+    "completed": [
+      "Triaged support queue"
+    ],
+    "plan": []
+  },
+  "ai_summary": null
+}

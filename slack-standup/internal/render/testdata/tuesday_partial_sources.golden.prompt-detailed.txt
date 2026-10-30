@@ -1,0 +1,8 @@
+Work Activity Summary:
+
+Jira Tickets Completed:
+- PROJ-9: Summary of PROJ-9
+Other Activities:
+- Triaged support queue
+
+Please create a detailed daily standup summary that categorizes the work and provides context about impact and progress. Include technical details where relevant.

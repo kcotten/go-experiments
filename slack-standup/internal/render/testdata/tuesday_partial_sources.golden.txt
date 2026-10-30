@@ -1,0 +1,15 @@
+## Daily Standup - Tuesday, March 11, 2025
+
+### Yesterday's Progress
+
+**Jira - Completed:**
+• <https://acme.atlassian.net/browse/PROJ-9|PROJ-9> Summary of PROJ-9
+
+**Recent Activity Summary:**
+• Triaged support queue
+
+### Today's Plan
+• _Add your planned work here_
+
+### Blockers
+• None
